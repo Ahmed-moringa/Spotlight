@@ -1,1 +1,1 @@
-web: gunicorn spotlight.wsgi --log-file -
+web: gunicorn Spot.wsgi --log-file -
